@@ -1,0 +1,67 @@
+body{
+    background-color: lightskyblue;
+}
+
+button{
+    width: 150px;
+    height: 200px;
+    font-size: 15px !important;
+    margin: 5px;
+}
+
+.btn-resources{
+    width: 110px;
+    height: 40px;
+    font-size: 15px !important;
+    margin: 5px;
+}
+
+.Events{
+    border: .1px #707070 solid;
+    margin: 10px;
+}
+
+.timer{
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+.GDPDiv{
+    padding-left: 10px;
+}
+
+.header{
+    background-color: white;
+    padding-bottom: 10px;
+    z-index: 1;
+}
+
+.producerInfo{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.teamname{
+    margin-left: 10px;
+}
+
+table{
+    margin-top: 30px;
+    margin-left: 50px;
+    border: .1px #707070 solid;
+    width: 900px;
+}
+
+tr{
+    border: .1px #707070 solid;
+    padding: 5px;  
+}
+
+td{
+    border: .1px #707070 solid;
+    padding: 5px;
+}
+
+.login{
+    padding: 100px;
+}
